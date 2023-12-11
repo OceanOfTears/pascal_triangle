@@ -1,0 +1,30 @@
+C:\uchebka121\paskal_rofls\bin\Debug\net6.0\paskal_rofls.exe
+C:\uchebka121\paskal_rofls\bin\Debug\net6.0\paskal_rofls.deps.json
+C:\uchebka121\paskal_rofls\bin\Debug\net6.0\paskal_rofls.runtimeconfig.json
+C:\uchebka121\paskal_rofls\bin\Debug\net6.0\paskal_rofls.dll
+C:\uchebka121\paskal_rofls\bin\Debug\net6.0\paskal_rofls.pdb
+C:\uchebka121\paskal_rofls\obj\Debug\net6.0\paskal_rofls.csproj.AssemblyReference.cache
+C:\uchebka121\paskal_rofls\obj\Debug\net6.0\paskal_rofls.GeneratedMSBuildEditorConfig.editorconfig
+C:\uchebka121\paskal_rofls\obj\Debug\net6.0\paskal_rofls.AssemblyInfoInputs.cache
+C:\uchebka121\paskal_rofls\obj\Debug\net6.0\paskal_rofls.AssemblyInfo.cs
+C:\uchebka121\paskal_rofls\obj\Debug\net6.0\paskal_rofls.csproj.CoreCompileInputs.cache
+C:\uchebka121\paskal_rofls\obj\Debug\net6.0\paskal_rofls.dll
+C:\uchebka121\paskal_rofls\obj\Debug\net6.0\refint\paskal_rofls.dll
+C:\uchebka121\paskal_rofls\obj\Debug\net6.0\paskal_rofls.pdb
+C:\uchebka121\paskal_rofls\obj\Debug\net6.0\paskal_rofls.genruntimeconfig.cache
+C:\uchebka121\paskal_rofls\obj\Debug\net6.0\ref\paskal_rofls.dll
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\bin\Debug\net6.0\paskal_rofls.exe
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\bin\Debug\net6.0\paskal_rofls.deps.json
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\bin\Debug\net6.0\paskal_rofls.runtimeconfig.json
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\bin\Debug\net6.0\paskal_rofls.dll
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\bin\Debug\net6.0\paskal_rofls.pdb
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\obj\Debug\net6.0\paskal_rofls.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\obj\Debug\net6.0\paskal_rofls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\obj\Debug\net6.0\paskal_rofls.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\obj\Debug\net6.0\paskal_rofls.AssemblyInfo.cs
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\obj\Debug\net6.0\paskal_rofls.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\obj\Debug\net6.0\paskal_rofls.dll
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\obj\Debug\net6.0\refint\paskal_rofls.dll
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\obj\Debug\net6.0\paskal_rofls.pdb
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\obj\Debug\net6.0\paskal_rofls.genruntimeconfig.cache
+C:\Users\User\Desktop\яблочный спас всех спас\c#\pascal_triangle\obj\Debug\net6.0\ref\paskal_rofls.dll
